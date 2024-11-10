@@ -9,4 +9,4 @@
                        | Output2 |
                        +---------+
 
-Used the gcc compiler
+Used gcc compiler
